@@ -1,5 +1,5 @@
-# Proyecto-Final-26134
-## Entrega Proyecto Final NODEJS - TalentoTech | Comision 26134
+# CRUD-NodeJS-and-Express
+## Entrega de proyecto Final NODEJS - TalentoTech | Comision 26134
 
 API REST desarrollada con Node.js y Express para la gestión de productos de un ecommerce. El proyecto implementa operaciones CRUD completas, persistencia en Firebase Firestore y borrado lógico de registros y logs de actividad.
 
@@ -148,7 +148,6 @@ El proyecto sigue una arquitectura por capas:
     firebase,
     jsonwebtoken
 ```
-
 
 ## Scripts
 
